@@ -1,4 +1,4 @@
-# Tailwind Monorepo Using Turborepo
+# Frontend Monorepo
 
 ### Apps and Packages
 
